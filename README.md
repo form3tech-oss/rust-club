@@ -19,7 +19,14 @@
   * CLion + [IntelliJ Rust](https://intellij-rust.github.io/)
   * vim/emacs + [rust-analyzer](https://rust-analyzer.github.io/manual.html#installation)
 * [cargo watch](https://crates.io/crates/cargo-watch) to run tests continously - e.g. `cargo watch -x 'test'`
+* [cargo edit](https://lib.rs/crates/cargo-edit) add dependencies from the commandline
+
+## Libraries - typical small program choice
+
 * [library search](https://lib.rs/)
+* [commandline parsing](https://lib.rs/crates/structopt)
+* [property-based testing](https://lib.rs/crates/proptest)
+* [error handling](https://lib.rs/crates/anyhow)
 
 ## Exercises
 * [Rust by example](https://doc.rust-lang.org/rust-by-example/)
