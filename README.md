@@ -6,6 +6,8 @@
   * [online](https://doc.rust-lang.org/stable/book/)
   * [physical](https://nostarch.com/Rust2018)
 
+* [Zero To Production](https://www.zero2prod.com/index.html?country=the%20UK&discount_code=VAT20) (early access)
+
 ## Exercises
 * [Rust by example](https://doc.rust-lang.org/rust-by-example/)
 * [exercism](https://exercism.io/my/tracks/rust)
