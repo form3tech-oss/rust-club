@@ -12,6 +12,7 @@
 
 ## Setup
 
+* [try it out/share examples](https://play.rust-lang.org/) - online playground
 * [rustup](https://rustup.rs/) - installer and version manager, tldr - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 * editors/IDEs
   * VSCode + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
