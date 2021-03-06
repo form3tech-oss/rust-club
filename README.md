@@ -8,6 +8,8 @@
 
 * [Zero To Production](https://www.zero2prod.com/index.html?country=the%20UK&discount_code=VAT20) (early access)
 
+* [more learning materials](https://www.rust-lang.org/learn)
+
 ## Setup
 
 * [rustup](https://rustup.rs/) - installer and version manager, tldr - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
