@@ -8,6 +8,15 @@
 
 * [Zero To Production](https://www.zero2prod.com/index.html?country=the%20UK&discount_code=VAT20) (early access)
 
+## Setup
+
+* [rustup](https://rustup.rs/) - installer and version manager, tldr - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+* editors/IDEs
+  * VSCode + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer)
+  * CLion + [IntelliJ Rust](https://intellij-rust.github.io/)
+  * vim/emacs + [rust-analyzer](https://rust-analyzer.github.io/manual.html#installation)
+* [cargo watch](https://crates.io/crates/cargo-watch) to run tests continously - e.g. `cargo watch -x 'test'`
+
 ## Exercises
 * [Rust by example](https://doc.rust-lang.org/rust-by-example/)
 * [exercism](https://exercism.io/my/tracks/rust)
