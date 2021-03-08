@@ -5,6 +5,7 @@
 * The Book - official companion
   * [online](https://doc.rust-lang.org/stable/book/)
   * [physical](https://nostarch.com/Rust2018)
+  * [async-book](https://rust-lang.github.io/async-book/)
 
 * [Zero To Production](https://www.zero2prod.com/index.html?country=the%20UK&discount_code=VAT20) (early access)
 
@@ -32,6 +33,7 @@
 * [commandline parsing](https://lib.rs/crates/structopt)
 * [property-based testing](https://lib.rs/crates/proptest)
 * [error handling](https://lib.rs/crates/anyhow)
+* [tokio - async runtime](https://github.com/tokio-rs/tokio)
 
 ## Staying up to date
 
