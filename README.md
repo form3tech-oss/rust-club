@@ -43,3 +43,26 @@
 ## Asking questions
 * [forum](https://users.rust-lang.org/)
 * [discord](https://discord.gg/rust-lang)
+
+## Groups
+
+### Learn to crab
+* Halima
+* George
+* Sam
+* Michael
+* Robin
+* Giorgos
+* Marcel
+
+### projects - demos to others
+* Attila
+* Jose
+* Liam
+* Mattsi
+* Michał
+* Stuart
+* 
+
+
+
