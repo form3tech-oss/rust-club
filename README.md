@@ -42,7 +42,7 @@
 
 ## Asking questions
 * [forum](https://users.rust-lang.org/)
-* [discord](https://discord.gg/rust-lang)
+* [official discord](https://discord.gg/rust-lang)
 
 ## Groups
 
